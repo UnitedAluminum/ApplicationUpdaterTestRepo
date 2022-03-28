@@ -1,3 +1,3 @@
-# OnovaTestRepo
+# ApplicationUpdaterTestRepo
 
-Test repository used for Onova integration tests
+Test repository used for Application Updater integration tests
